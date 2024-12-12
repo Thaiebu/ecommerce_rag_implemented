@@ -42,6 +42,6 @@ This project showcases how AI, Machine Learning, and Automation can create inter
 ---
 
 ## 📖 Learn More  
-Check out my [Medium article](#) for a detailed breakdown of how I built this project. Feel free to connect or drop a comment to discuss potential collaborations or ideas!
+Check out my [Medium article](https://medium.com/@thaiebu785/building-a-product-recommendation-chatbot-using-retrieval-augmented-generation-rag-303131481122) for a detailed breakdown of how I built this project. Feel free to connect or drop a comment to discuss potential collaborations or ideas!
 
 ---
