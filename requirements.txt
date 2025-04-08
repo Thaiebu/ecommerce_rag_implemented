@@ -1,0 +1,7 @@
+pandas
+python-dotenv
+requests
+google-generativeai
+streamlit
+pillow
+chromadb
