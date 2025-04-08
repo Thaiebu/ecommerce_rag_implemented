@@ -4,5 +4,5 @@ requests
 google-generativeai
 streamlit
 pillow
-db-sqlite3
+pysqlite3-binary
 chromadb
