@@ -1,6 +1,5 @@
 import os
 from dotenv import load_dotenv
-sys.modules["sqlite3"] = pysqlite3
 import chromadb
 from chromadb import Documents, EmbeddingFunction, Embeddings
 import google.generativeai as genai
